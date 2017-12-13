@@ -19,7 +19,7 @@ namespace win14
 
         private void button1_Click(object sender, EventArgs e)
         {
-            String s = "trulala42";
+            String s = "trulala";
         }
     }
 }
